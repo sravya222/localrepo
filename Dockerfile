@@ -1,1 +1,2 @@
-This file contains docker instructions
+This file contains docker instruction
+One of instruction is From
